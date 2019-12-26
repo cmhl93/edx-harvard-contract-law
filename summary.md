@@ -1,5 +1,16 @@
 # Course Outline
 
+##  INTRODUCTION
+
+### What is a contract?
+    * A contract is a mutually beneficial agreement that can be written or verbal
+    * Restaurants - They feed you, you pay the cost for dinner
+    * Snow shoveling - Kids shovel your driveway, you owe $25
+    
+### Building the Ladder of Trust
+    * Coordination between Voluntary Parties
+      * The understanding of the contract between both parties
+      
 ##  UNIT 1: FOUR PRINCIPLES
 
 ##  UNIT 1: PART 2 - COMPLICATIONS AND QUIZ
