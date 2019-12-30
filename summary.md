@@ -20,7 +20,23 @@
     * Inside coordination contains communication, agreement, understanding
       *  Understanding what you are trying to do (want and try to coordinate)
     * Trust - A guy that falls down and is sure there is someone that will pick him up 
-      
+
+### Trust
+    * Dead weight loss
+    * Trust allows planning
+    * Planning is coordination over time
+    * Commitment and promise, justifiable in trusting someone
+
+### Promise
+    * Trade over time
+    * The tangible asset (money) stands for the promise
+    * Don't have to trust or know the person.  Just trust that the money is not fool's gold
+    
+### Building Contracts through Trust, Promise, Money and Credit
+    * Deadweight loss if we cannot deal now 
+    * Credit - believe, trust - where a deadweight loss was avoided
+    * Contracts cause us to avoid deadweight losses
+    
 ##  UNIT 1: FOUR PRINCIPLES
 
 ##  UNIT 1: PART 2 - COMPLICATIONS AND QUIZ
