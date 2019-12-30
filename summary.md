@@ -11,6 +11,16 @@
     * Coordination between Voluntary Parties
       * The understanding of the contract between both parties
       
+### Coordination between Voluntary Parties
+    * Coordinating of free people getting together to accomplish something
+    * Coordination takes place in subtle hints (communication)
+    
+### Communication, Agreement, Understanding and Trust
+    * Voluntary coordination
+    * Inside coordination contains communication, agreement, understanding
+      *  Understanding what you are trying to do (want and try to coordinate)
+    * Trust - A guy that falls down and is sure there is someone that will pick him up 
+      
 ##  UNIT 1: FOUR PRINCIPLES
 
 ##  UNIT 1: PART 2 - COMPLICATIONS AND QUIZ
