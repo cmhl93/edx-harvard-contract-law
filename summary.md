@@ -39,6 +39,15 @@
     
 ##  UNIT 1: FOUR PRINCIPLES
 
+### Intent to Create Legal Relations
+    * Invitation to Dinner
+      *  What if one person doesn't show up and he doesn't even call?
+         *  Broken promise
+         *  Informal interchange that does not create legal relations
+         
+### Both Sides Serious?
+    *
+
 ##  UNIT 1: PART 2 - COMPLICATIONS AND QUIZ
 
 ##  UNIT 2: EMPTY BAG
